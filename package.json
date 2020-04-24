@@ -1,0 +1,20 @@
+{
+  "name": "chrono-cli",
+  "version": "1.0.0",
+  "description": "A CLI to translate natural language dates to RFC3339",
+  "main": "index.js",
+  "bin": {
+    "chrono": "./chrono.js"
+  },
+  "scripts": {
+    "test": "node ./chrono_test.js"
+  },
+  "keywords": [
+    "chrono"
+  ],
+  "author": "emc@eliath.biz",
+  "license": "ISC",
+  "dependencies": {
+    "chrono-node": "^1.4.5"
+  }
+}
