@@ -6,7 +6,7 @@ natural language dates to RFC3339 format
 ## Install
 
 1. Clone the repo
-2. Run `npm Install`
+2. Run `npm install`
 3. Run `npm link`
 
 ## Usage
