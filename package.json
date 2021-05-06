@@ -15,6 +15,6 @@
   "author": "emc@eliath.biz",
   "license": "ISC",
   "dependencies": {
-    "chrono-node": "^1.4.5"
+    "chrono-node": "^2.2.4"
   }
 }
